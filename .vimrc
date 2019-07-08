@@ -27,7 +27,7 @@ inoremap " ""<ESC>i
 inoremap jk <esc>
 inoremap ff ()<ESC>i
 inoremap uu []<ESC>i
-inoremap fd {<CR>}<ESC>O
+inoremap fd {}<ESC>O
 inoremap mm _
 inoremap mj -
 inoremap vv +
