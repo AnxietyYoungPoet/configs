@@ -25,10 +25,10 @@ syntax on
 inoremap ' ''<ESC>i
 inoremap " ""<ESC>i
 inoremap jk <esc>
-inoremap ff ()<ESC>i
-inoremap uu []<ESC>i
-inoremap fd {}<ESC>O
-inoremap mm _
-inoremap mj -
+inoremap dh ()<ESC>i
+inoremap fh []<ESC>i
+inoremap fd {}<ESC>i
+inoremap fk _
+inoremap dk -
 inoremap vv +
 inoremap fv =
